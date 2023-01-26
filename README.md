@@ -9,7 +9,6 @@
 - Creation of a generalized model applicable to catagorical data sets in csv format
 
 **Results**
-- Generalized model created with realistic accuracy
 ![Minimization of Beta](images/acc_plot.png 'Model Accuracy in response to number of nearest neighbors') 
 
 
@@ -24,7 +23,6 @@
 - Creation of a generalized model applicable to catagorical data sets in csv format
 
 **Results**
-- Generalized model created with realistic accuracy
 ![cfn Matrix](images/telo_churn_cfnMat.png 'Confusion Matrix representing the accuracty of trained model to test data set') 
 ![Log Loss](images/telo_churn_classRepo_logLoss.png 'Calculaed Logrithmic Loss metric of trained model') 
 
