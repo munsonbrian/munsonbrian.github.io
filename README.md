@@ -64,6 +64,6 @@ Fitting Quadratic Function Using Chi Squared Statistical Metric
 
 **Results**
 - Model parameters were determined by utilizing Lmfit methods to fit quadratic function to empirically collected data.
-![Minimization of Beta](images/min_beta.pdf 'Finding value of Beta; coeficient that generalizes quadratic function to fit all collected data') 
-![Deflection Fit](images/defl_fit.pdf 'Fitting of quadratic function to data subsets')
+![Minimization of Beta](images/min_beta.png 'Finding value of Beta; coeficient that generalizes quadratic function to fit all collected data') 
+![Deflection Fit](images/defl_fit.png 'Fitting of quadratic function to data subsets')
 
