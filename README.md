@@ -10,6 +10,7 @@
 
 **Results**
 - Generalized model created with realistic accuracy
+![Minimization of Beta](images/acc_plot.png 'Model Accuracy in response to number of nearest neighbors') 
 
 
 ## Project Two: Logistic Regression Classifier of Telecommunication Service Customers
@@ -24,6 +25,9 @@
 
 **Results**
 - Generalized model created with realistic accuracy
+![cfn Matrix](images/telo_churn_cfnMat.png 'Confusion Matrix representing the accuracty of trained model to test data set') 
+![Log Loss](images/telo_churn_classRepo_logLoss.png 'Calculaed Logrithmic Loss metric of trained model') 
+
 
 
 
@@ -38,6 +42,9 @@
 
 **Results**
 - Function was successfully fit to toy data resembling single variate gaussian distrubution with single or multiple peaks
+![Single Peak Gaussian Fit](images/fitGaussian.png 'Approximation of Gaussian Distrubution to toy data with single peak') 
+![Multi Peak Gaussian Fit](images/fit2Gaussian_peaks.png 'Approximation of Gaussian Distrubution to toy data with multiple peaks ') 
+
 
 
 
@@ -56,6 +63,7 @@ Fitting Quadratic Function Using Chi Squared Statistical Metric
 - Validation of analytical model derived for the design of partical detectior for UTA High Energy Partical Physics Research
 
 **Results**
-- Model parameters were determined by utilizing Lmfit methods to fit quadratic function to empirically collected data. 
-![Deflection Fit](images/defl_fit.pdf)
+- Model parameters were determined by utilizing Lmfit methods to fit quadratic function to empirically collected data.
+![Minimization of Beta](images/min_beta.png 'Finding value of Beta; coeficient that generalizes quadratic function to fit all collected data') 
+![Deflection Fit](images/defl_fit.png 'Fitting of quadratic function to data subsets')
 
