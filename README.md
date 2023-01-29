@@ -1,5 +1,6 @@
 # Data Science Curriculum Vitae
-## Project One: KNN applied to Wisconsin Diagnostic Breast Cancer Data Set
+
+## [Project One: KNN applied to Wisconsin Diagnostic Breast Cancer Data Set](https://github.com/munsonbrian/Tumor_Classification)
 **Skills Utilized**
 - Scikit Learn: train test split, accuracy evaluation, KNN model training
 - Pandas, Numpy: Data visualization, cleaning and manipulation
@@ -12,8 +13,7 @@
 ![Minimization of Beta](images/acc_plot.png 'Model Accuracy in response to number of nearest neighbors') 
 
 
-## Project Two: Logistic Regression Classifier of Telecommunication Service Customers
-
+## [Project Two: Logistic Regression Classifier of Telecommunication Service Customers](https://github.com/munsonbrian/TeloChurn_LogReg)
 **Skills Utilized**
 - Scikit Learn: train test split, accuracy evaluation, KNN model training
 - Pandas, Numpy: Data visualization, cleaning and manipulation
@@ -29,7 +29,7 @@
 
 
 
-## Project Three: Fitting sigle variate gaussian distrubution to toy data as proof of concept for college research purposes  
+## [Project Three: Fitting sigle variate gaussian distrubution to toy data](https://github.com/munsonbrian/Gaussian_Peak_Fititng)
 **Skills Utilized**
 - Python
 - Numpy, PIL: Data visualization, cleaning and manipulation
@@ -48,9 +48,7 @@
 
 
 
-## Project Four
-Fitting Quadratic Function Using Chi Squared Statistical Metric
-
+## [Project Four: Fitting Quadratic Function Using Chi Squared Statistical Metric](https://github.com/munsonbrian/Chi_Squared_Fit)
 **Skills Utilized**
 - LmFit Library: Fits user defined function to data
 - Pandas, Numpy: Data visualization, cleaning and manipulation
