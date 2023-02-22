@@ -1,4 +1,4 @@
-# Data Science Curriculum Vitae
+# Data Science Projects Completed to Date
 
 ## [Project One: KNN applied to Wisconsin Diagnostic Breast Cancer Data Set](https://github.com/munsonbrian/Tumor_Classification)
 **Skills Utilized**
