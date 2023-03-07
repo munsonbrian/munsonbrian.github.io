@@ -1,5 +1,78 @@
-# Data Science Projects Completed to Date
+# Resume
+<p>Brian L. Munson<br>
+848 Sage Way Lane – Friendswood, TX 77546<br>
+munsonbrian@hotmail.com • 832-291-4169 <br>
+Data Science CV: https://munsonbrian.github.io/
+</p>
+<p>
+<strong>Education</strong><br>
+Blinn College - Brenham, TX – Associates of Engineering – Projected Completion August 2023
+University of Texas - Arlington, TX – Fall 2021 – Spring 2022
+Clear Lake Highschool - Clear Lake, TX – 2019 Graduate - GPA 3.6
+</p>
 
+<strong>Work Experience</strong>
+<p>
+<ul>
+  <li>Research Assistant, UTA Physics Department - Fall & Spring 2021
+    <ul>
+      <li>Total Internal Reflection Fluorescence (TIRF) Microscopy.</li>
+      <li>Data analysis and Signal Processing</li>
+     </ul>
+     
+  <li>Spartan Resources, LLC - Oklahoma City, OK - Summer 2019 
+    <ul>
+      <li>Engineering Intern
+        <ul>
+          <li>Created an economic evaluation model in MS Excel to screen O&G investments.</li>
+          <li>Generated statistical summaries and created graphs for management</li> 
+        <li>Traveled to the field to review production operations in Hughes County, OK.</li>
+        </ul>
+      </li>
+     </ul>
+</p>
+
+
+<strong>Achievements</strong>
+<p>
+  <ul>
+    <li>Data collection by the creation of measurement devices and through digital imaging techniques – Fall & Spring 2021.  Advised by Benjamin P. Jones, Associate Prof. UTA</li>
+    <li>Contribution toward autofocus algorithm for use in novel particle detector for high energy physics applications</li>
+    <li>Houston Metallurgical Lab - Trained with Ron Richter on gathering and analyzing stress strain data of epoxy fiber composite - Summer 2014 & 2015</li
+    </ul>
+</p>
+
+<strong>Computer Applications/Skills</strong>
+<p>
+  <ul>
+    <li>Intermediate Proficiency: Python, Excel, Fusion 360, Solidworks</li>
+  	<li>Beginner proficiency:  MS Access, C++, HTML, CSS, Java Script, Octave   (MATLAB)</li>
+  </ul>
+</p>
+<strong>Certifications & Degrees</strong>
+<p>
+  <ul>
+    <li>Machine Learning with Python from IBM AI Engineering Professional Certificate – Completed Dec 30, ‘22</li>
+    <li>The Web Developer Bootcamp 2022 from Udemy, instructed by Colt Steele – Projected Completion March 2023</li>
+  </ul>
+</p>
+
+<strong>Interests/Skills</strong>
+<p>
+  <ul>
+    <li>Data Science, Computer Vision, CAD Design & Additive Manufacturing, Image Processing, Web Application Development, Internet of Things</p>
+  </ul>
+</p>
+<strong>References</strong>
+<p>
+  <ul>
+    <li>Available upon request.
+  </ul>
+</p>
+  
+  
+  
+<h1>Data Science: Completed Projects to Date</h1>
 ## [Project One: KNN applied to Wisconsin Diagnostic Breast Cancer Data Set](https://github.com/munsonbrian/Tumor_Classification)
 **Skills Utilized**
 - Scikit Learn: train test split, accuracy evaluation, KNN model training
