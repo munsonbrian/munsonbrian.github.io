@@ -71,12 +71,7 @@ Clear Lake Highschool - Clear Lake, TX – 2019 Graduate - GPA 3.6<br>
   </ul>
 </p>
 
-<p>
-<strong>References</strong>
-  <ul>
-    <li>Available upon request.
-  </ul>
-</p>
+
   
   
   
