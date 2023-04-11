@@ -12,20 +12,21 @@
 ![Minimization of Beta](images/acc_plot.png 'Model Accuracy in response to number of nearest neighbors') 
 
 
-## [Project Two: Logistic Regression Classifier of Telecommunication Service Customers](https://github.com/munsonbrian/TeloChurn_LogReg)
+## [Project Two: 2D Gaussian Fit for use in Image Detail Enhancement](https://github.com/munsonbrian/2D_Gaussian_Fit)
 **Skills Utilized**
-- Scikit Learn: train test split, accuracy evaluation, KNN model training
-- Pandas, Numpy: Data visualization, cleaning and manipulation
-- Matplot Lib: Result presentation
+- Numpy: Data manipulation
+- lmFit: Function fititng to data set
+- Matplot Lib: Presentation and Data Visualization
 
 **Application**
-- Creation of a generalized model applicable to catagorical data sets in csv format
+- LmFit, a curve fitting package for python, was utilized to fit a 2D gaussian distrubution a slide illuminated by a Argon Ion laser. Because laser is known to emit a gaussian wave front, a mutivariate gaussian distrubution was chosen to be a good fit of the data.
 
 **Results**
-![cfn Matrix](images/telo_churn_cfnMat.png 'Confusion Matrix representing the accuracty of trained model to test data set') 
-![Log Loss](images/telo_churn_classRepo_logLoss.png 'Calculaed Logrithmic Loss metric of trained model') 
+![Comparison of Original Image to Processed Image](images/Gauss_fit_lmfit.svg.pdf 'Comparison of Original Image to Processed Image') 
+**Future Considerations**
+- Current iteration of this tool failed to eliminate background adequately. Further assesment of performance can be done by conplaing the intensity profiles of the image histograms before and after subtraction of the best fit gaussuan distrubution.
 
-
+- Further improvements will incliude the use of a FFT to further reduce noise after optimising the fitment of a 2D gaussian distrubution and exploring fititng tools provided by SciKit Learn.
 
 
 ## [Project Three: Fitting sigle variate gaussian distrubution to toy data](https://github.com/munsonbrian/Gaussian_Peak_Fititng)
