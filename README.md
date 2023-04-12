@@ -22,7 +22,7 @@
 - LmFit, a curve fitting package for python, was utilized to fit a 2D gaussian distrubution a slide illuminated by a Argon Ion laser. Because laser is known to emit a gaussian wave front, a mutivariate gaussian distrubution was chosen to be a good fit of the data.
 
 **Results**
-![Comparison of Original Image to Processed Image](images/Gauss_fit_lmfit.pdf 'Comparison of Original Image to Processed Image') 
+![Comparison of Original Image to Processed Image](images/2d_guass_fit.png 'Comparison of Original Image to Processed Image') 
 **Future Considerations**
 - Current iteration of this tool failed to eliminate background adequately. Further assesment of performance can be done by conplaing the intensity profiles of the image histograms before and after subtraction of the best fit gaussuan distrubution.
 
