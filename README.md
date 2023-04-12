@@ -19,7 +19,7 @@
 - Matplot Lib: Presentation and Data Visualization
 
 **Application**
-- LmFit, a curve fitting package for python, was utilized to fit a 2D gaussian distrubution a slide illuminated by a Argon Ion laser. Because laser is known to emit a gaussian wave front, a mutivariate gaussian distrubution was chosen to be a good fit of the data.
+- LmFit, a curve fitting package for python, was utilized to fit a 2D gaussian distrubution to an image of a laser impinging on a medical grade glass slide. Because laser is known to emit a gaussian wave front, a mutivariate gaussian distrubution was chosen to be a good fit of the data.
 
 **Results**
 ![Comparison of Original Image to Processed Image](images/2d_guass_fit.png 'Comparison of Original Image to Processed Image') 
