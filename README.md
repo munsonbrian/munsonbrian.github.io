@@ -56,7 +56,7 @@
 - Statistical methods including Chi Squared metric
 
 **Application**
-- Validation of analytical model derived for the design of partical detectior for UTA High Energy Partical Physics Research
+- Validation of analytical model to aid in the design of a particle detectior for UTA High Energy Partical Physics Research
 
 **Results**
 - Model parameters were determined by utilizing Lmfit methods to fit quadratic function to empirically collected data.
