@@ -23,8 +23,9 @@
 
 **Results**
 ![Comparison of Original Image to Processed Image](images/2d_guass_fit.png 'Comparison of Original Image to Processed Image') 
+
 **Future Considerations**
-- Current iteration of this tool failed to eliminate background adequately. Further assesment of performance can be done by conplaing the intensity profiles of the image histograms before and after subtraction of the best fit gaussuan distrubution.
+- Current iteration of this tool failed to eliminate background adequately. Further assesment of performance can be done by conparing the intensity profiles of the image histograms before and after subtraction of the best fit gaussuan distrubution.
 
 - Further improvements will incliude the use of a FFT to further reduce noise after optimising the fitment of a 2D gaussian distrubution and exploring fititng tools provided by SciKit Learn.
 
