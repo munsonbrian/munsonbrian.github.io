@@ -21,7 +21,7 @@
 **Application**
 - Enhance image detail and reduce unwanted background 'noise' from the data. 
 
-**Result and Next Stepss**
+**Result and Next Steps**
 ![Comparison of Original Image to Processed Image](images/2d_guass_fit.png 'Comparison of Original Image to Processed Image') 
 
 
