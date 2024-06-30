@@ -46,22 +46,6 @@
 
 
 
-
-
-## [Project Five: Characterizing Market Atteractivness Using Lorenz Coeficient Metric](https://github.com/munsonbrian/Chi_Squared_Fit)
-**Skills Utilized**
-- Pandas, Numpy: Data visualization, cleaning and manipulation
-- Matplot Lib: Result presentation
-- sklearn: 
-
-**Application**
-- Validation of analytical model to aid in the design of a particle detectior for UTA High Energy Partical Physics Research
-
-**Results**
-- Model parameters were determined by utilizing Lmfit methods to fit quadratic function to empirically collected data.
-![Minimization of Beta](images/min_beta.png 'Finding value of Beta; coeficient that generalizes quadratic function to fit all collected data') 
-![Deflection Fit](images/defl_fit.png 'Fitting of quadratic function to data subsets')
-
 ## [Project Four: Fitting Quadratic Function Using Chi Squared Statistical Metric](https://github.com/munsonbrian/Chi_Squared_Fit)
 **Skills Utilized**
 - LmFit Library: Fits user defined function to data
